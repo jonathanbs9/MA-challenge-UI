@@ -15,7 +15,7 @@ Para el desarrollo de los test Frontend se utilizó lo siguiente
 
 * Chromedriver (src/main/resources)
 
-### Ejecución test 
+### :small_blue_diamond: Ejecución test 
 
 * Opcion 1: Comando Maven
  
@@ -48,7 +48,7 @@ Para el desarrollo de los test Backend se utilizó lo siguiente
 * IntelliJ
 * POJO (Plain old Java Object)
 
-### Ejecución de test
+### :small_blue_diamond: Ejecución de test
 
 * Comando Maven
 
