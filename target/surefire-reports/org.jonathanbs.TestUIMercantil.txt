@@ -1,0 +1,17 @@
+-------------------------------------------------------------------------------
+Test set: org.jonathanbs.TestUIMercantil
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 29.654 s <<< FAILURE! - in org.jonathanbs.TestUIMercantil
+TestCase001CotizarPeugeot206(org.jonathanbs.TestUIMercantil)  Time elapsed: 11.615 s  <<< FAILURE!
+org.openqa.selenium.ElementNotInteractableException: 
+element not interactable
+  (Session info: chrome=100.0.4896.88)
+Build info: version: '4.1.3', revision: '7b1ebf28ef'
+System info: host: 'DESKTOP-2UOT798', ip: '172.27.0.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_311'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [cf45e0a0d77890d9295373d80b9f8ab2, clearElement {id=838d5211-29b0-40bc-a4b6-a926e86045f7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.88, chrome: {chromedriverVersion: 99.0.4844.51 (d537ec02474b5..., userDataDir: C:\Users\jonat\AppData\Loca...}, goog:chromeOptions: {debuggerAddress: localhost:54881}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:54881/devtoo..., se:cdpVersion: 100.0.4896.88, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (cf45e0a0d77890d9295373d80b9f8ab2)] -> xpath: //input[@id='nombre']]
+Session ID: cf45e0a0d77890d9295373d80b9f8ab2
+	at org.jonathanbs.TestUIMercantil.TestCase001CotizarPeugeot206(TestUIMercantil.java:39)
+

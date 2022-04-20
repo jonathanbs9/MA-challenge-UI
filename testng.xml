@@ -1,0 +1,11 @@
+<suite name="Suite - Jonathan Brull Schroeder" verbose="1">
+    <test name="Mercantil Andina UI Test">
+        <classes>
+            <class name="org.jonathanbs.ui.TestUIMercantil"></class>
+        </classes>
+    </test>
+
+    <test name="Mercantil Andina API Test">
+        <class name="org.jonathanbs.api.BrewingApi.BrewingTests"/>
+    </test>
+</suite>
