@@ -1,6 +1,6 @@
 # MA-challenge-UI and API
 
-### :small_blue_diamond: Test FRONTEND
+### :round_pushpin: Test FRONTEND
 
 Para el desarrollo de los test Frontend se utilizó lo siguiente
 
@@ -35,9 +35,9 @@ Para el desarrollo de los test Frontend se utilizó lo siguiente
 
 `` test-output/index.html  ``
 
-#########################################
-### :small_blue_diamond: Test BACKEND 
-#########################################
+
+### :round_pushpin: Test BACKEND 
+
 
 Para el desarrollo de los test Backend se utilizó lo siguiente
 
